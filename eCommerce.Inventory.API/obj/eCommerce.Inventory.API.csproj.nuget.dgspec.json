@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj": {}
+    "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj": {
+    "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj",
+        "projectUniqueName": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj",
         "projectName": "eCommerce.Inventory.API",
-        "projectPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj",
+        "projectPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Inventory.API\\eCommerce.Inventory.API.csproj",
         "packagesPath": "C:\\Users\\arpitupadhyay01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Inventory.API\\obj\\",
+        "outputPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Inventory.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

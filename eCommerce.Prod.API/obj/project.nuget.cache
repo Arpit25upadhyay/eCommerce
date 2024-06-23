@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMD2EUf0wtHeTONKebaVq/OjLjYeFER/sF65MwONiVV8y3iBecYP7+rK43SFSqSON+yael+wualuJg/ASN9CUQ==",
+  "dgSpecHash": "5kNicZOV9E8B38obVu0V/n5wtQd1gMNfvoKtJU2uNc7qM5YsuW33Ou5piIyzdZ5gwFxpMToWAWT+yRmu1qujog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Prod.API\\eCommerce.Prod.API.csproj",
+  "projectFilePath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Prod.API\\eCommerce.Product.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arpitupadhyay01\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\arpitupadhyay01\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -523,11 +523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.User.API\\eCommerce.User.API.csproj",
+      "projectUniqueName": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.User.API\\eCommerce.User.API.csproj",
       "projectName": "eCommerce.User.API",
-      "projectPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.User.API\\eCommerce.User.API.csproj",
+      "projectPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.User.API\\eCommerce.User.API.csproj",
       "packagesPath": "C:\\Users\\arpitupadhyay01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.User.API\\obj\\",
+      "outputPath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.User.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

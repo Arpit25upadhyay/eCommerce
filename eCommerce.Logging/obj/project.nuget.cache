@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2PDlyqGjr3S6+JHFVSkz3sOpQv2I2+diepB4I7Hhr+bpPpA71PJAr0jI1Qpd7KBefEGJmDomw3vmF2A0tD+rA==",
+  "dgSpecHash": "EumaG/4SNsOuBZRf+AwfXx2Z1/MFn7mDtV0Suojur6khtg3waomXjbPDB+npQFiwIGLt6Q8Z/bRqIyqkmXIUgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\MicroService\\DDD\\eCommerce\\eCommerce.Logging\\eCommerce.Logging.csproj",
+  "projectFilePath": "C:\\Users\\arpitupadhyay01\\OneDrive - Nagarro\\Desktop\\eCommerce\\eCommerce.Logging\\eCommerce.Logging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
