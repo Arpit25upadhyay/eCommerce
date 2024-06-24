@@ -4,7 +4,7 @@
 		Manage user login, registration, and session management.
 	Interactions:
 		Authenticate users for User Service.
-		Provide authentication tokens for secure communication between services.
+		Provide authentication tokens for communication between services.
 2. Admin Service
 	Responsibilities:
 		Perform adding, updating, and removing products.
@@ -38,7 +38,7 @@
 		Provide order confirmations and order tracking.
 	Interactions:
 		Validate cart contents with Cart Service during checkout.
-		Fetch product details from Product Service to ensure product data is accurate at checkout.
+		Fetch product details from Product Service to ensure product data is correct.
 		Update inventory levels in Inventory Service based on completed orders.
 		Communicate with User Service to associate orders with user accounts.
 7. User Service
