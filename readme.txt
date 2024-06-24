@@ -25,8 +25,13 @@
 	Interactions:
 		Update stock levels based on transactions processed by Order Service.
 		Provide stock availability information to Product Service and Cart Service.
-
-5. Order Service
+5. Product Service
+	Responsibilities:
+		Manage product catalog including creation, updating, and deletion of products.
+		Provide product information like name, description, price and category.
+	Interactions:
+		Interact with Inventory Service to provide stock availability.
+6. Order Service
 	Responsibilities:
 		Handle the checkout process and manage orders.
 		Process payments and update order status.
@@ -36,7 +41,7 @@
 		Fetch product details from Product Service to ensure product data is accurate at checkout.
 		Update inventory levels in Inventory Service based on completed orders.
 		Communicate with User Service to associate orders with user accounts.
-6. User Service
+7. User Service
 	Responsibilities:
 		Manage user information and profiles.
 		Manage order related to users.
